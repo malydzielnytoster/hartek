@@ -1,0 +1,2 @@
+# hartek
+Nasz pierwszy projekt
